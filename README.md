@@ -19,7 +19,7 @@ Passionate about building reliable, secure software and exploring the ever-evolv
 * **Contributing:** Open-source projects focused on developer tools and security automation.
 
 ### 🌱 Connect with Me
-* 💼 **LinkedIn:** 
+* 💼 **LinkedIn:** www.linkedin.com/in/sam-okello-75aa66289
 * 🌐 **Portfolio/Blog:** https://samokello.netlify.app/
 * 📧 **Email:** rebornoginah@gmail.com
 
