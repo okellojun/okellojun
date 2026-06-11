@@ -1,10 +1,30 @@
 - 👋 Hi, I’m @okellojun
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on Web and Software development 
-- 📫 How to reach me rebornoginah@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+🚀 Software Developer & Aspiring Cybersecurity Analyst
+Passionate about building reliable, secure software and exploring the ever-evolving threat landscape. I bridge the gap between efficient development and robust defense, with a current focus on secure coding practices, network security, and vulnerability assessment.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, JavaScript, C++, Java
+* **Frameworks & Web:** React, Node.js
+* **Security & Networking:** Wireshark, Nmap, Metasploit, Linux
+* **DevOps & Tools:** Git, GitHub, Docker, AWS
+
+---
+
+### 🔍 Current Focus & Learning
+* **Building:** Hands-on security labs and secure-by-design web applications.
+* **Studying:** Fundamentals of ethical hacking and threat analysis (aiming for [e.g., Security+ / CEH]).
+* **Contributing:** Open-source projects focused on developer tools and security automation.
+
+### 🌱 Connect with Me
+* 💼 **LinkedIn:** 
+* 🌐 **Portfolio/Blog:** https://samokello.netlify.app/
+* 📧 **Email:** rebornoginah@gmail.com
+
+> Open to collaboration, open-source contributions, and opportunities to grow as both a developer and security professional.
+> Always learning, always building, and always curious about how technology can be broken—and better secured.
 
 <!---
 okellojun/okellojun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
