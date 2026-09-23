@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okellojun
+- 👋 Hi, I’m Okello Sam
 
 🚀 Software Developer & Aspiring Cybersecurity Analyst
 Passionate about building reliable, secure software and exploring the ever-evolving threat landscape. I bridge the gap between efficient development and robust defense, with a current focus on secure coding practices, network security, and vulnerability assessment.
